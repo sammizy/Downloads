@@ -1,0 +1,116 @@
+.TLCS{
+    text-align: right;
+    color: white;
+    margin-top: 0px;
+    word-spacing: 10px;  
+    padding-right: 19px;
+    font-family: "Ebrima";
+}
+.TLCS img{
+    height: 20px;
+    width: 20px;
+    border-radius: 60px;
+    position: absolute;
+    margin: top 0px;
+    word-spacing: 10px;
+}
+.Google{
+    color: white;
+    text-align: center;
+    font-size: 100px;
+    margin-top: 0px;
+    font-family: 'Poppins';
+}
+body{
+    background-color: rgb(39, 39, 39);
+}
+form {
+    text-align: center;
+    margin-top: 10px;
+}
+form input{
+    padding: 15px;
+    width: 650px;
+    border-radius: 25px;
+    background-color: transparent;
+    border-color: white;
+    color: white;
+    font-size: 15px;
+}
+.Button {
+    text-align: center;
+    margin-top: 20px;
+}
+.butt {
+    background-color: rgb(77, 76, 76);
+    padding: 5px;
+    margin-left: 7px;
+    border-color: transparent;
+    border-radius: 3px;
+    margin-bottom: 30px;
+    margin-top: 10px;
+}
+.Button a{
+    height: 5px;
+    padding: 5px;
+    color: white;
+    text-decoration: none
+}
+.links {
+    text-align: center;
+    color: white;
+    font-style: normal;
+    font-family: "Ebrima";
+}
+.links a{
+    text-decoration: none;
+    color: rgb(171, 171, 255);
+    padding-left: 13px;
+}
+.Nigeria {
+    position: absolute;
+    bottom: 30px;
+    font-family: "Ebrima";
+}
+.Nigeria a{
+    text-decoration: none;
+    color: white;
+}
+.About{
+    color: white;
+    position: absolute;
+    bottom: 0px;
+    text-align: left;
+    font-family: "Ebrima";
+}
+.About a{
+    text-decoration: none;
+    color: white;
+    padding-right: 25px;
+    
+}
+.Our {
+    position: absolute;
+    bottom: 0%;
+    left: 39%;
+    right: 35%;
+    font-family: "Ebrima";
+}
+.Our a{
+    color: white;
+    text-decoration: none;
+    text-align: center;
+}
+.Privacy {
+    position: absolute;
+    bottom: 0%;
+    right: 1%;
+    text-align: right;
+    font-family: "Ebrima";
+}
+.Privacy a{
+    color: white;
+    text-decoration: none;
+    text-align: right;
+    word-spacing: 5px;
+}
